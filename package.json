@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@flashbots/ethers-provider-bundle": "^0.6.1",
+    "alchemy-sdk": "^2.3.0",
+    "bignumber": "^1.1.0",
+    "dotenv": "^16.0.3",
+    "ether": "^0.0.9",
+    "ethereumjs-tx": "^2.1.2",
+    "Math": "^0.0.1-security",
+    "math.js": "^1.1.46",
+    "node-xlsx": "^0.21.0",
+    "type": "module",
+    "uniswap": "^0.0.1",
+    "web3": "^1.8.1"
+  }
+}
